@@ -1,3 +1,5 @@
+以下均非我的寫作
+
 # [解剖深度学习原理，从0实现深度学习库](https://ke.qq.com/course/2900371?tuin=ac5537fd)
 Anatomy of the Deep Learning Principle，Implementing a Deep Learning Library from 0
 
