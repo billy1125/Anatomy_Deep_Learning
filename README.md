@@ -89,3 +89,12 @@ courseId=1209184840&share=2&shareId=400000000236023)
 - C语言版数据结构（源代码）：[https://github.com/hwdong-net/ds/tree/master/C](https://github.com/hwdong-net/ds/tree/master//C)
 - C++版数据结构（源代码）：[https://github.com/hwdong-net/ds/tree/master/cplusplus](https://github.com/hwdong-net/ds/tree/master/cplusplus)
 - C++17从入门到精通（源代码）：[https://github.com/hwdong-net/cplusplus17](https://github.com/hwdong-net/cplusplus17)
+
+本书配套视频课程：[解剖深度学习原理，从0实现深度学习库](https://ke.qq.com/course/2900371?tuin=ac5537fd) 
+
+更多代码或学习资料将向购买视频课程或书的学生提供。
+
+
++ 博客网站：[https://hwdong-net.github.io](https://hwdong-net.github.io)
++ youtube频道: [hwdong](http://www.youtube.com/c/hwdong)
++ bilibili网站：[hw-dong](https://space.bilibili.com/281453312)
